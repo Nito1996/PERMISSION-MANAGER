@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermissionManager.BusinessL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermissionManager.DataAccess", "..\PermissionManagerDataAccess\PermissionManager.DataAccess.csproj", "{DFC279DB-74D0-4BE9-94D0-9AD10654B4B1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PermissionManager", "PermissionManager", "{72012697-DDF2-4D7C-81D0-47479BA14BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63F537B1-F42E-4946-93EA-F9412A177153} = {72012697-DDF2-4D7C-81D0-47479BA14BE8}
+		{8C11B0A4-0229-41C6-A770-07D823326DB2} = {72012697-DDF2-4D7C-81D0-47479BA14BE8}
+		{DFC279DB-74D0-4BE9-94D0-9AD10654B4B1} = {72012697-DDF2-4D7C-81D0-47479BA14BE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC8DEC5E-41DC-4313-A96F-09AF7FF85E7B}
