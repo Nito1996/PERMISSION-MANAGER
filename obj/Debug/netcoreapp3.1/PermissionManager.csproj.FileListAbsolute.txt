@@ -1,0 +1,14 @@
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.exe
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.deps.json
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.runtimeconfig.json
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.runtimeconfig.dev.json
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.dll
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\bin\Debug\netcoreapp3.1\PermissionManager.pdb
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.AssemblyInfoInputs.cache
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.AssemblyInfo.cs
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.csproj.CoreCompileInputs.cache
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.sourcelink.json
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.dll
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.pdb
+C:\Users\randy\OneDrive\Escritorio\PROGRAMMING\C#\Projects\PermissionManager\obj\Debug\netcoreapp3.1\PermissionManager.genruntimeconfig.cache

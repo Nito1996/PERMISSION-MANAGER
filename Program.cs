@@ -6,7 +6,7 @@ namespace PermissionManager
 {
     public class Program
     {
-        static bool exitRequested = false;
+        public static bool exitRequested = false;
         public static IPermissionOperation permissionOperation = new PermissionOperation();
         public static IList<Permission> permissionsList = permissionOperation.Read();
         public enum MainMenu
@@ -186,8 +186,6 @@ namespace PermissionManager
                 Console.WriteLine("\nInvalid Input. Please enter a valid numeric value from 1 to 3.");
                 return;
             }
-
-
 
             var type = Enum.Parse<PermissionType>(permissionType);
 
